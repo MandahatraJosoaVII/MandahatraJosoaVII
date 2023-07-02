@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning various skills
 - 💞️ I’m looking to collaborate with other Developer
-- 📫 How to reach me ...
+- 📫 How to reach me josoataryll@gmail.com
 
 <!---
 MandahatraJosoaVII/MandahatraJosoaVII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
