@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MandahatraJosoaVII
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning various skills
+  
 - 💞️ I’m looking to collaborate with other Developer
 - 📫 How to reach me josoataryll@gmail.com
 
