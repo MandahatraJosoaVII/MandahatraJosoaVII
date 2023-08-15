@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MandahatraJosoaVII
+- 👋 Hi, I’m JosoaVII
 - 👀 I’m interested in Software Development
   
 
